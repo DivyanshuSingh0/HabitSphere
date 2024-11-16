@@ -135,6 +135,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - heydivyanshusingh@gmail.com
 
-Project Link: [https://github.com/yourusername/habitsphere](https://github.com/yourusername/habitsphere)
+Project Link: [https://github.com/DivyanshuSingh0/habitsphere](https://github.com/DivyanshuSingh0/habitsphere)
